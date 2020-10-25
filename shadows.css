@@ -1,0 +1,44 @@
+.shadow1{
+    font-size: 1.5em;
+    color: white;
+    text-shadow: 1px 1px black;
+    font-family:"Open Sans";
+    text-align:center;
+}
+
+.shadow2{
+    font-size: 1.5em;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    font-family:"Open Sans";
+    text-align:center;
+}
+
+.shadow3{
+    font-size: 1.5em;
+    color: white;
+    text-shadow: 1px 1px 5px black, 0 0 8px red;
+    font-family:"Open Sans";
+    text-align:center;
+}
+
+.sombra2{
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 3px;
+    color: darkslateblue;
+    text-shadow: 1px 1px 5 px black;
+}
+.sombra3{
+    box-shadow: 10px 20px 20px black;
+}
+
+.sombra4{
+    font-size: 1.5em;
+    color: white;
+    text-shadow: 1px 1px 5px black, 0 0 12px red;
+    font-family:"Open Sans";
+}

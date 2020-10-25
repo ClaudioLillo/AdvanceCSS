@@ -1,0 +1,35 @@
+.cardContent1{
+    background-color: rgba(255,0,0,0.3);
+    width:60%;
+    text-align:center;
+    border-radius:3px;
+    margin:auto;
+    padding:5px;
+    margin-top:8px;
+    margin-bottom:8px;
+    box-shadow:3px 3px rgba(255,0,0,0.6);
+}
+
+.cardContent2{
+    background-color: rgba(255,0,0,0.3);
+    width:60%;
+    text-align:center;
+    border-radius:3px;
+    margin:auto;
+    padding:5px;
+    margin-top:8px;
+    margin-bottom:8px; 
+    box-shadow:3px 3px 5px rgba(255,0,0,0.6);
+}
+
+.cardContent3{
+    background-color: rgba(255,0,0,0.3);
+    width:60%;
+    text-align:center;
+    border-radius:3px;
+    margin:auto;
+    padding:5px;
+    margin-top:8px;
+    margin-bottom:8px; 
+    box-shadow:3px 3px 5px rgba(255,0,0,0.6), 2px 2px blue;
+}
